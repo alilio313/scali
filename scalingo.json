@@ -2,7 +2,7 @@
     "name": "𝗭𝗧𝗵𝗼𝗻",
     "description": "• تنصيب سـورس زدثــون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
     "addons": ["scalingo-postgresql"],
-    "repository": "https://github.com/alilio313/scali",
+    "repository": "https://github.com/Zelzal-SC/sst",
     "stack": "container",
     "env": {
         "STRING_SESSION": {
