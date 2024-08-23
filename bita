@@ -1,4 +1,4 @@
-git clone https://github.com/Zelzal-SC/sst FRA
+git clone https://github.com/alilio313/scali FRA
 cd FRA
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
